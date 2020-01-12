@@ -7,3 +7,5 @@ Wer einen "Ideen-Input" benötigt, kann sich gerne die Programme anschauen, aber
 Viel Spaß!
 
 An alle die rumheulen, dass der Code eventuell nicht clean oder schön geschrieben ist: Die Programme sind so angepasst, dass sie dem entsprechen was die Schüler bis da hin schon können. Wenn man mit Schleifen programmiert, obwohl die Schüler das noch gar nicht können - nicht so schlau.
+
+Wer Fehler findet darf sie gerne melden: letsgoing-solutions@support.philipprogramm.de
