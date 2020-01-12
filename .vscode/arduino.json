@@ -1,4 +1,4 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "1 - Mikrocontroller kennenlernen\\1-7_Uebungsprojekt\\1-7_Uebungsprojekt.ino"
+    "sketch": "3 - Analoge Signale und Variablen\\3-4_Uebungsprojekt\\3-4_Uebungsprojekt.ino"
 }
