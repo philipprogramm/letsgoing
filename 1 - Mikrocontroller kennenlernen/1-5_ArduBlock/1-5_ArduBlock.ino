@@ -5,7 +5,7 @@
 // none
 
 void setup(){
-    pinMode(13, OUTPUT); // set PIN 13 (onboard led) as output
+    pinMode(13, OUTPUT); // set pin 13 (onboard led) as output
 }
 void loop(){
     digitalWrite(13, HIGH); // turn led on

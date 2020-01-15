@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "3 - Analoge Signale und Variablen\\3-4_Uebungsprojekt\\3-4_Uebungsprojekt.ino"
+}
