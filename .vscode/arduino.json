@@ -1,4 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "3 - Analoge Signale und Variablen\\3-4_Uebungsprojekt\\3-4_Uebungsprojekt.ino"
+    "sketch": "2 - Digitale Signale und Variablen\\2-1_Der_digitale_Ausgang\\2-1_Der_digitale_Ausgang.ino",
+    "port": "COM4"
 }
