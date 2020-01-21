@@ -1,4 +1,4 @@
-// 3.7 Übungsprojekt
+// 4.4 Unterprogramme
 // Solution by philipprogramm
 // 
 // Pins
@@ -17,8 +17,18 @@ void setup() {
 }
 
 void loop(){
+    readPoti();
+    writeLed();
+}
+
+// function to read the poti-value to variables farbe1 and farbe2
+void readPoti(){
     int farbe1 = map(analogRead(A0), 0, 1023, 0, 255); // map poti input into variable farbe1
     int farbe2 = 255 - map(analogRead(A0), 0, 1023, 0, 255); // map poti into variable but inverted
+}
+
+// function to write values to led
+void writeLed(){
     analogWrite(5, farbe1); // write color-values to analog
     analogWrite(6, farbe2);
 }
