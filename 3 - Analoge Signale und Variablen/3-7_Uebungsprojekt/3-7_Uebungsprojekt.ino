@@ -5,7 +5,6 @@
 // A0: poti-module (only 1 pin avaliable)
 // 6: rgb-module pin 1 (blue)
 // 5: rgb-module pin 2 (red)
-// 3: rgb-module pin 3 (green)
 // Note: A stands for analog pin of the arduino
 
 int farbe1 = 0;

@@ -5,7 +5,6 @@
 // A0: poti-module (only 1 pin avaliable)
 // 6: rgb-module pin 1 (blue)
 // 5: rgb-module pin 2 (red)
-// 3: rgb-module pin 3 (green)
 // Note: A stands for analog pin of the arduino
 // IMPORTANT: All scripts contain comments. This is why I didn't changed anything here. Also, the header is done differently in my example-scripts. Don't forget the LICENSE (see github.com/philipprogramm/letsgoing-solutions for more information)
 
