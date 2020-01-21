@@ -12,19 +12,19 @@ void loop(){
     //  Blink 1
     digitalWrite(13, HIGH); // turn led on
     delay(300); // wait 300 ms
-    digitalWrite(13, LOW); // turn led on
+    digitalWrite(13, LOW); // turn led off
     delay(300); // wait 300 ms
 
     //  Blink 2
     digitalWrite(13, HIGH); // turn led on
     delay(300); // wait 300 ms
-    digitalWrite(13, LOW); // turn led on
+    digitalWrite(13, LOW); // turn led off
     delay(300); // wait 300 ms
 
     //  Blink 3
     digitalWrite(13, HIGH); // turn led on
     delay(300); // wait 300 ms
-    digitalWrite(13, LOW); // turn led on
+    digitalWrite(13, LOW); // turn led off
     delay(300); // wait 300 ms
 
 
@@ -32,19 +32,19 @@ void loop(){
     //  Blink 1
     digitalWrite(13, HIGH); // turn led on
     delay(900); // wait 900 ms
-    digitalWrite(13, LOW); // turn led on
+    digitalWrite(13, LOW); // turn led off
     delay(900); // wait 900 ms
 
     //  Blink 2
     digitalWrite(13, HIGH); // turn led on
     delay(900); // wait 900 ms
-    digitalWrite(13, LOW); // turn led on
+    digitalWrite(13, LOW); // turn led off
     delay(900); // wait 900 ms
 
     //  Blink 3
     digitalWrite(13, HIGH); // turn led on
     delay(900); // wait 900 ms
-    digitalWrite(13, LOW); // turn led on
+    digitalWrite(13, LOW); // turn led off
     delay(900); // wait 900 ms
 
 
@@ -52,19 +52,19 @@ void loop(){
     //  Blink 1
     digitalWrite(13, HIGH); // turn led on
     delay(300); // wait 300 ms
-    digitalWrite(13, LOW); // turn led on
+    digitalWrite(13, LOW); // turn led off
     delay(300); // wait 300 ms
 
     //  Blink 2
     digitalWrite(13, HIGH); // turn led on
     delay(300); // wait 300 ms
-    digitalWrite(13, LOW); // turn led on
+    digitalWrite(13, LOW); // turn led off
     delay(300); // wait 300 ms
 
     //  Blink 3
     digitalWrite(13, HIGH); // turn led on
     delay(300); // wait 300 ms
-    digitalWrite(13, LOW); // turn led on
+    digitalWrite(13, LOW); // turn led off
     delay(300); // wait 300 ms
 
     // wait for next word
